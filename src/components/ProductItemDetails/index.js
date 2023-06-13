@@ -21,7 +21,7 @@ class ProductItemDetails extends Component {
   }
 
   render() {
-    return <h1>hi,Divyamsi</h1>
+    return <h1>Ccbp</h1>
   }
 }
 
